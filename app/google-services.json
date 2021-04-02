@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107608297653",
+    "project_id": "designapp-d3d9e",
+    "storage_bucket": "designapp-d3d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107608297653:android:a53f3a3d129c397f99eefc",
+        "android_client_info": {
+          "package_name": "com.example.designapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107608297653-6bfkuorbk1o8oknuj2ddhp198qua685a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCuu0WXOfFrdOJQX8YJXELLc85_Ls9SRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107608297653-6bfkuorbk1o8oknuj2ddhp198qua685a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
